@@ -56,14 +56,16 @@ Follow these steps to set up and run the Diabetes Data Query Assistant:
 
 ### Libraries
 
-Install the required Python libraries using the following command:
-
-```bash    
-pip install streamlit pandas google-generativeai python-dotenv sqlite3
-
+Install the required Python libraries using the following command: 
 
 
 #### Usage Instructions
 Enter your question about diabetes patient data in the input box provided.
 Click on the "Ask the question" button to generate and execute the SQL query.
 View the results of your query in the table displayed below the input bo
+
+```bash    
+pip install streamlit pandas google-generativeai python-dotenv sqlite3
+
+
+
