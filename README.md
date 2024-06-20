@@ -64,6 +64,10 @@ Enter your question about diabetes patient data in the input box provided.
 Click on the "Ask the question" button to generate and execute the SQL query.
 View the results of your query in the table displayed below the input bo
 
+## Result .
+![Screenshot 2024-06-18 164801](https://github.com/jayraj2498/AI-Powered-Diabetes-Query-Tool/assets/113837064/64e66f14-751e-44a4-a655-e0d6128b9f9e)
+
+
 ```bash    
 pip install streamlit pandas google-generativeai python-dotenv sqlite3
 
